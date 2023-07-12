@@ -10,7 +10,7 @@ def combine_dataset(dataset_name1, dataset_name2, saved_name):
     cat_dog_dataset = tf.data.experimental.load(path_cat_dog)
 
     dataset = food_dataset.concatenate(cat_dog_dataset)
-    dataset.shuffle(1000)  # 這東西shuffle 了個寂寞啊
+    dataset.shuffle(1000) 
 
     path = os.path.join(os.getcwd(), saved_name)
     tf.data.experimental.save(dataset, path)
