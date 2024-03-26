@@ -1,4 +1,4 @@
-# Undergraduate-Y1S2-Food_Cat_Dog_Image_Classification
+# Food Cat Dog Classification
 Author: [Ng Zheng Jue](https://github.com/xinjue37), [Ong Ming Jie](https://github.com/ethanong98), Tan Shan Yong
 
 * This is a project developed in undergraduate Year 1 - Semester 2. 
