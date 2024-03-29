@@ -8,4 +8,4 @@ Author: [Ng Zheng Jue](https://github.com/xinjue37), [Ong Ming Jie](https://gith
   - Image folder that contains some sample test image
 
 ## Experiment Design
-<img src="Experiment_design.jpg">
+<img src="Experiment_design.jpg" width="500">
